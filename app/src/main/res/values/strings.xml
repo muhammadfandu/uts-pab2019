@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">UTS055</string>
+    <string name="anggurhitam">Anggur Hitam</string>
+    <string name="anggurmerah">Anggur Merah</string>
+    <string name="apelfuji">Apel Fuji</string>
+    <string name="mangga">Mangga</string>
+    <string name="beli">Beli</string>
+    <string name="text_mangga">Mangga (Rp. 20.000/Kg)</string>
+    <string name="text_apel_fuji">Apel Fuji (Rp. 35.000/Kg)</string>
+    <string name="text_anggur_merah">Anggur Merah (Rp. 40.000/Kg)</string>
+    <string name="text_anggur_hitam">Anggur Hitam (Rp. 30.000/Kg)</string>
+    <string name="name">Nama</string>
+    <string name="enter_your_name">isi nama di sini</string>
+    <string name="address">Alamat</string>
+    <string name="enter_address">isi alamat lengkap</string>
+    <string name="phone">No. Telp / HP</string>
+    <string name="enter_phone">isi no telp di sini</string>
+    <string name="enter_note">Tambah Catatan</string>
+    <string name="pilih_cara_pembayaran">Pilih Cara Pembayaran</string>
+    <string name="transfer">Transfer</string>
+    <string name="cod">Cash On Delivery</string>
+    <string name="txt_summary">Anggur Hitam harga per Kg : Rp. 30.000 minimal 1 kg, maksimal 4kg</string>
+    <string name="jumlah_pembelian">Jumlah Pembelian :</string>
+    <string name="note">Note</string>
+    <string name="proses">Proses</string>
+    <string name="form_pemesanan">Form Pemesanan</string>
+    <string name="fruit_pedia">FRUIT PEDIA</string>
+    <string-array name="value_array">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+</resources>
